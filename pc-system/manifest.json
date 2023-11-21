@@ -2,12 +2,12 @@
     {
         "App_version": "0.1.20",
         "Depend_dotnet_tools": [
-            { "Name": "yw.hub", "Version": "0.0.18" },
+            { "Name": "yw.hub", "Version": "0.0.17" },
             { "Name": "yw.service.service-manager", "Version": "0.0.3" },
-            { "Name": "yw.service.db.pc-component", "Version": "0.0.17" },
-            { "Name": "yw.service.db.project", "Version": "0.0.15" },
-            { "Name": "yw.service.db.spec", "Version": "0.0.15" },
-            { "Name": "yw.service.pc-component", "Version": "0.0.1" },
+            { "Name": "yw.service.db.pc-component", "Version": "0.0.16" },
+            { "Name": "yw.service.db.project", "Version": "0.0.16" },
+            { "Name": "yw.service.db.spec", "Version": "0.0.14" },
+            { "Name": "yw.service.pc-component", "Version": "0.0.2" },
             { "Name": "yw.service.pc-drawing-generator", "Version": "0.0.97" }
         ]
     },
@@ -16,10 +16,10 @@
         "Depend_dotnet_tools": [
             { "Name": "yw.hub", "Version": "0.0.17" },
             { "Name": "yw.service.service-manager", "Version": "0.0.3" },
-            { "Name": "yw.service.db.pc-component", "Version": "0.0.17" },
-            { "Name": "yw.service.db.project", "Version": "0.0.15" },
-            { "Name": "yw.service.db.spec", "Version": "0.0.15" },
-            { "Name": "yw.service.pc-component", "Version": "0.0.1" },
+            { "Name": "yw.service.db.pc-component", "Version": "0.0.16" },
+            { "Name": "yw.service.db.project", "Version": "0.0.16" },
+            { "Name": "yw.service.db.spec", "Version": "0.0.14" },
+            { "Name": "yw.service.pc-component", "Version": "0.0.2" },
             { "Name": "yw.service.pc-drawing-generator", "Version": "0.0.97" }
         ]
     }

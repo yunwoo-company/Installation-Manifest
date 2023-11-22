@@ -1,6 +1,6 @@
 [
     {
-        "App_version": "0.0.2-test",
+        "App_version": "0.0.2",
         "Depend_dotnet_tools": [
             { "Name": "yw.hub", "Version": "0.0.18" },
             { "Name": "yw.service.service-manager", "Version": "0.0.3" },

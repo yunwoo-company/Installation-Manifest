@@ -1,0 +1,14 @@
+{
+    "App_version": "0.0.19",
+    "Depend_dotnet_tools": [
+        { "Name": "yw.hub", "Version": "0.0.38" },
+        { "Name": "yw.pc-component.monitor", "Version": "0.0.8" },
+        { "Name": "yw.pc-cad-2d_win-intel-64-bit", "Version": "0.0.7" },
+        { "Name": "yw.service.service-manager", "Version": "0.0.5" },
+        { "Name": "yw.service.db.pc-component", "Version": "0.0.23" },
+        { "Name": "yw.service.db.project", "Version": "0.0.22" },
+        { "Name": "yw.service.db.spec", "Version": "0.0.20" },
+        { "Name": "yw.service.pc-component", "Version": "0.0.18" },
+        { "Name": "yw.service.pc-drawing-generator", "Version": "0.0.97" }
+    ]
+}

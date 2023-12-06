@@ -1,5 +1,5 @@
 {
-    "App_version": "0.0.22",
+    "App_version": "0.0.26",
     "Dotnet_tool_dependencies": [
         { "Name": "yw.hub", "Version": "0.0.43" },
         { "Name": "yw.pc-component.monitor", "Version": "0.0.8" },

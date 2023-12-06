@@ -1,7 +1,7 @@
 {
     "App_version": "0.1.0",
     "Dotnet_tool_dependencies": [
-        { "Name": "yw.hub", "Version": "0.0.43" },
+        { "Name": "yw.hub", "Version": "0.1.0" },
         { "Name": "yw.pc-component.monitor", "Version": "0.0.8" },
         { "Name": "yw.pc-cad-2d_win-intel-64-bit", "Version": "0.0.7" },
         { "Name": "yw.service.service-manager", "Version": "0.0.5" },

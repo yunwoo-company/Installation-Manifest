@@ -14,7 +14,7 @@
         { "Name": "yw.service.service-manager", "Version": "0.0.5" }
     ],
     "Apps": [
-        { "Name": "yw.pc-system.2d-editor_win-intel-64-bit", "Version": "0.0.1" },
-        { "Name": "yw.pc-system.3d-editor_win-intel-64-bit", "Version": "0.0.4" }
+        { "Platforms" : [" win-*"], "Name": "yw.pc-system.2d-editor_win-intel-64-bit", "Version": "0.0.1" },
+        { "Platforms" : [" win-*"], "Name": "yw.pc-system.3d-editor_win-intel-64-bit", "Version": "0.0.4" }
     ]
 }

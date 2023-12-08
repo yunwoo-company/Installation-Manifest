@@ -1,7 +1,7 @@
 {
-    "App_version": "0.1.9",
+    "App_version": "0.1.10",
     "Dotnet_tool_dependencies": [
-        { "Name": "yw.hub", "Version": "0.1.5" },
+        { "Name": "yw.hub", "Version": "0.1.6" },
         { "Name": "yw.pc-system.pc-component.raw-editor", "Version": "0.0.3" },
         { "Name": "yw.service.service-manager", "Version": "0.0.5" },
         { "Name": "yw.service.db.pc-component", "Version": "0.0.26" },

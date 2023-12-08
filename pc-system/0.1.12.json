@@ -1,0 +1,16 @@
+{
+    "Solution_version": "0.1.12",
+    "Dashboard": { "Name": "yw.hub", "Version": "0.1.8" },
+    "Services": [
+        { "Name": "yw.pc-system.pc-component.raw-editor", "Version": "0.0.3" },
+        { "Name": "yw.service.service-manager", "Version": "0.0.5" },
+        { "Name": "yw.service.db.pc-component", "Version": "0.0.26" },
+        { "Name": "yw.service.db.project", "Version": "0.0.24" },
+        { "Name": "yw.service.db.spec", "Version": "0.0.22" },
+        { "Name": "yw.service.pc-component", "Version": "0.0.24" },
+        { "Name": "yw.service.pc-drawing", "Version": "0.0.3" }
+    ],
+    "Apps": [
+        { "Platform": [ "win-*" ], "Name": "yw.pc-system.3d-editor.windows.x64", "Version": "0.1.3" }
+    ]
+}

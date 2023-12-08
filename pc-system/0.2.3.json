@@ -1,5 +1,5 @@
 {
-    "Solution_version": "0.2.2",
+    "Solution_version": "0.2.3",
     "Dashboard": { "Name": "yw.hub", "Version": "0.1.8" },
     "Services": [
         { "Name": "yw.pc-system.pc-component.raw-editor", "Version": "0.0.3" },

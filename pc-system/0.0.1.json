@@ -6,6 +6,7 @@
         { "Name": "yw.service.service-manager", "Version": "0.0.5" },
         { "Name": "yw.service.db.pc-component", "Version": "0.0.28" },
         { "Name": "yw.service.db.project", "Version": "0.0.26" },
+        { "Name": "yw.service.db.spec", "Version": "0.0.25" },
         { "Name": "yw.service.pc-component", "Version": "0.0.30" },
         { "Name": "yw.service.pc-drawing", "Version": "0.0.5" }
     ],

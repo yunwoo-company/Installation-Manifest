@@ -10,6 +10,6 @@
     ],
     "Apps": [
         { "Platforms": [ "win-*" ], "Name": "yw.pc-2d-editor.windows.x64", "Version": "0.1.1" },
-        { "Platforms": [ "win-*" ], "Name": "yw.pc-2d-editor.windows.x64", "Version": "0.1.0" }
+        { "Platforms": [ "win-*" ], "Name": "yw.pc-3d-editor.windows.x64", "Version": "0.1.0" }
     ]
 }

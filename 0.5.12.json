@@ -7,6 +7,7 @@
         { "Name": "yw.pc.service.db.component", "Version": "0.5.13" },
         { "Name": "yw.pc.service.db.project", "Version": "0.5.10" },
         { "Name": "yw.pc.service.db.spec", "Version": "0.5.9" }
+        { "Name": "yw.pc.service.drawing-generator", "Version": "0.5.1" }
     ],
     "Apps": [
         { "Platforms": [ "win-*" ], "Name": "yw.pc.2d-editor.windows.x64", "Version": "0.1.1" },

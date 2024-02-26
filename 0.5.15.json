@@ -1,0 +1,15 @@
+{
+    "Solution_version": "0.5.15",
+    "Dashboard": { "Name": "yw.pc.hub", "Version": "0.5.16" },
+    "Services": [
+        { "Name": "yw.pc.raw-editor", "Version": "0.5.12" },
+        { "Name": "yw.pc.service.component", "Version": "0.5.30" },
+        { "Name": "yw.pc.service.db.component", "Version": "0.5.17" },
+        { "Name": "yw.pc.service.db.project", "Version": "0.5.12" },
+        { "Name": "yw.pc.service.db.spec", "Version": "0.5.11" },
+        { "Name": "yw.pc.service.drawing-generator", "Version": "0.5.4" }
+    ],
+    "Apps": [
+        { "Platforms": [ "win-*" ], "Name": "yw.pc.editor.windows.x64", "Version": "0.0.2" }
+    ]
+}

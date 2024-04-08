@@ -1,0 +1,14 @@
+{
+    "Solution_version": "0.5.20",
+    "Dashboard": { "Name": "yw.pc.hub", "Version": "0.5.21" },
+    "Services": [
+        { "Name": "yw.pc.service.component", "Version": "0.5.60" },
+        { "Name": "yw.pc.service.db.component", "Version": "0.5.24" },
+        { "Name": "yw.pc.service.db.project", "Version": "0.5.18" },
+        { "Name": "yw.pc.service.db.spec", "Version": "0.5.16" },
+        { "Name": "yw.pc.service.drawing-generator", "Version": "0.5.8" }
+    ],
+    "Apps": [
+        { "Platforms": [ "win-*" ], "Name": "yw.pc.parametric-editor.windows.x64", "Version": "0.0.5" }
+    ]
+}

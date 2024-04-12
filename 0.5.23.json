@@ -9,6 +9,6 @@
         { "Name": "yw.pc.service.drawing-generator", "Version": "0.5.9" }
     ],
     "Apps": [
-        { "Platforms": [ "win-*" ], "Name": "yw.pc.parametric-editor.windows.x64", "Version": "0.0.9" }
+        { "Platforms": [ "win-*" ], "Name": "yw.pc.parametric-editor.windows.x64", "Version": "0.0.8" }
     ]
 }
